@@ -103,11 +103,9 @@ Prometheus Dashboard	Grafana Dashboard
 	
 ## 🧠 Key Learnings
 
-- How to deploy Prometheus & Grafana using Helm.
+- How to deploy Prometheus & Grafana using Helm
+- How to visualize Kubernetes metrics with Grafana
+- How to use `kubectl port-forward` for local access
+- How Prometheus scrapes metrics and Grafana queries them
 
-- How to visualize Kubernetes metrics with Grafana.
-
-- How to use kubectl port-forward for local access.
-
-- How Prometheus scrapes metrics and Grafana queries them.
 ---
