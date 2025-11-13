@@ -20,8 +20,7 @@ In this project, I explored:
 Make sure you have:
 - A running **Kubernetes cluster** (Minikube)
 - **kubectl**
-- **Helm** (Refer: Helm Installation Docs)Make sure Helm is installed before proceeding. (Refer: Helm Installation Docs
-)”
+- **Helm** Refer to the [Helm Installation Guide](https://helm.sh/docs/intro/install/).
 - **Docker**
 
 ```bash
