@@ -7,6 +7,7 @@ A hands-on setup where I learned how to **monitor a Kubernetes cluster** using *
 ## 🧩 Overview
 
 In this project, I explored:
+
 - Setting up **Prometheus** on Kubernetes using Helm.
 - Accessing Prometheus through port-forwarding.
 - Integrating **Grafana** with Prometheus.
@@ -110,5 +111,3 @@ Prometheus Dashboard	Grafana Dashboard
 
 - How Prometheus scrapes metrics and Grafana queries them.
 ---
-
-## 🪄 Step 1: Add and Update Helm Repositories
